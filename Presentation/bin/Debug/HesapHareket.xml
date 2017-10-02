@@ -1,0 +1,54 @@
+<?xml version="1.0"?>
+<ArrayOfHesapHareket xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <HesapHareket>
+    <HesapHareketKod>1</HesapHareketKod>
+    <Carihesap>
+      <CariKod>1</CariKod>
+      <Unvan>Wissen Akademie</Unvan>
+      <FirmaLogo>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</FirmaLogo>
+      <Grup>
+        <GrupKodu>1</GrupKodu>
+        <GrupAdi>Eğitim</GrupAdi>
+      </Grup>
+      <Iletisim>
+        <Adres />
+        <Tel>  (   )        </Tel>
+        <CepTel>  (   )        </CepTel>
+        <Eposta />
+        <Web />
+        <Ilgili1 />
+        <Ilgili2 />
+      </Iletisim>
+      <Banka>
+        <BankaAdi />
+        <SubeAdi />
+        <SubeKodu />
+        <HesapNo />
+        <IBAN>TR-    -    -    -    -    -</IBAN>
+      </Banka>
+      <Ticari>
+        <YabanciUyruk>false</YabanciUyruk>
+        <SahisFirmasi>false</SahisFirmasi>
+        <TCKimlikNo>0</TCKimlikNo>
+        <VergiNo>0</VergiNo>
+        <KDVNo />
+      </Ticari>
+      <Kefil>
+        <Adres />
+        <Tel>  (   )        </Tel>
+        <CepTel>  (   )        </CepTel>
+        <AdSoyad />
+      </Kefil>
+    </Carihesap>
+    <Tutar>300</Tutar>
+    <IslemTipi>NakitTahsilat</IslemTipi>
+    <IslemTarihi>2017-07-14T08:49:29.5347089+03:00</IslemTarihi>
+    <VadeTarihi>2017-07-14T08:49:29.456585+03:00</VadeTarihi>
+    <VadeGunu>0</VadeGunu>
+    <Evrak>
+      <EvrakNo>e123</EvrakNo>
+      <EvrakTipi>Alış faturası</EvrakTipi>
+      <EvrakCinsi>Fatura</EvrakCinsi>
+    </Evrak>
+  </HesapHareket>
+</ArrayOfHesapHareket>
